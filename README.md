@@ -27,11 +27,3 @@
 - 📚 Lifelong learner and avid reader
 
 ### 👀 Thanks for visiting my profile! Feel free to connect and explore projects together! 🚀
-```
-
-Feel free to customize it further based on your preferences and additional information you'd like to include.
-
-<!---
-Endekalu-Zemenu/Endekalu-Zemenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
