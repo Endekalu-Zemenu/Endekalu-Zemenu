@@ -1,7 +1,7 @@
 <h1>Hi, I'm Endekalu Zemenu</h1>
 
 - All of my projects are available at [https://kalu.dev](https://kalu.dev)
-- How to reach me [endekaluzemenu2134@gmail.com](endekaluzemenu2134@gmail.com) | [@Real_Kal](https://t.me/Real_Kal) on Telegram
+- How to reach me [endekalu.dev@gmail.com](endekalu.dev@gmail.com) | [@Real_Kal](https://t.me/Real_Kal) on Telegram
 
 ---
 <!--## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects -->
